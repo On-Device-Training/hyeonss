@@ -1,1 +1,5 @@
 # hyeonss
+
+```
+python evaluate.py
+```
